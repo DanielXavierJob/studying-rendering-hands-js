@@ -1,4 +1,4 @@
-const { GestureDescription, Finger, FingerCurl, FingerDirection } = window.fp;
+const { GestureDescription, Finger, FingerCurl } = window.fp;
 
 const emoji = "🖐"
 const PaperGesture = new GestureDescription('paper');
